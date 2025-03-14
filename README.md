@@ -6,6 +6,7 @@
 🚀 **Currently exploring various programming languages & technologies in university.**  
 
 🔗 **Follow me** 
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yh_s00/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/songyh00)  
 
@@ -13,6 +14,7 @@
 
 ## ⚡ **Tech Stack**
 💻 **Programming & Web Development**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white)  
@@ -23,6 +25,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)  
 
 🛠 **Tools & Development Environment**  
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)  
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)  
