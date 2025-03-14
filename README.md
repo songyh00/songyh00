@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm **SongYuHyeon**!  
 🌱 **Aspiring Programmer | Passionate about Learning**  
-🚀 **Currently exploring various programming languages & technologies.**  
+🚀 **Currently exploring various programming languages & technologies in university.**  
 
 🔗 **Follow me**  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yh_s00/)  
