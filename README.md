@@ -5,7 +5,8 @@
 🌱 **Aspiring Programmer | Passionate about Learning**  
 🚀 **Currently exploring various programming languages & technologies in university.**  
 
-🔗 **Follow me**  
+🔗 **Follow me** 
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yh_s00/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/songyh00)  
 
