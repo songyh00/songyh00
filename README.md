@@ -2,8 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=50)
 
 # 👋 Hi, I'm **SongYuHyeon**!  
-🌱 **React & Frontend Developer in Seoul, Korea**  
-🚀 **I love learning new technologies and building awesome projects!**  
+🌱 **Aspiring Programmer | Passionate about Learning**  
+🚀 **Currently exploring various programming languages & technologies.**  
 
 🔗 **Follow me**  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yh_s00/)  
@@ -12,12 +12,17 @@
 ---
 
 ## ⚡ **Tech Stack**
+💻 **Programming Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)  
 
-🛠 **Tools & DevOps**  
+🛠 **Tools & Development Environment**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)  
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)  
 
 ---
 
@@ -27,16 +32,9 @@
 
 ---
 
-## 🚀 **Current Projects**
-🔹 **React App Development** - Working on my portfolio project!  
-🔹 **Learning TypeScript** - Enhancing my frontend skills.  
-
----
-
-## 💡 **Fun Facts**
-- 🎮 I love gaming and watching tech videos.  
-- ☕ I’m a coffee addict.  
-- 🐱 My cat is my best coding companion.  
+## 🚀 **Current Learning**
+🔹 **Exploring Various Programming Languages** - Python, Java, C, C++  
+🔹 **Expanding Problem-Solving Skills** - Competitive programming & algorithms  
 
 ---
 
@@ -45,7 +43,7 @@
 
 ---
 
-### 🎯 **How to Reach Me?**  
+## 🎯 **How to Reach Me?**  
 💌 **Email:** `songyhyh00@gmail.com`  
 💬 **DM me on Instagram!**  
-🚀 **Let's connect and build amazing projects together!**  
+🚀 **Let's connect and grow together!**  
