@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=50)
 
 # 👋 Hi, I'm **SongYuHyeon**  
-🎓 2nd-year university student majoring in computer science  
+🎓 Computer science major currently attending university
 🔍 Currently focused on **Backend Development** and **AI fundamentals**  
 
 ---
