@@ -42,7 +42,7 @@
 - 기상청 API + Kakao Map API 연동
 - 사용자 성별, 스타일, 기온에 따라 의류 추천 알고리즘 구현
 
-🔗 [프로젝트 코드 보러가기](https://github.com/songyh00/your-weatherfit-repo](https://github.com/songyh00/WeatherFit)
+🔗 [프로젝트 코드 보러가기](https://github.com/songyh00/WeatherFit)
 
 ---
 
@@ -59,7 +59,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=songyh00&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songyh00&layout=compact&theme=radical&cache_seconds=1" height="180px"/>
 </p>
 
 ---
