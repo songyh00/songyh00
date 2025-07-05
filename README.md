@@ -58,8 +58,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=songyh00&show_icons=true&theme=radical" height="180px"/>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=songyh00&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-readme-stats.vercel.app/api?username=songyh00&show_icons=true&theme=radical" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=songyh00&theme=algolia" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=songyh00&theme=radical&date_format=M%20j" />
 </p>
 
 ---
