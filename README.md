@@ -53,9 +53,9 @@
 
 ---
 
-## 🔗 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yh_s00/)  
+## 🔗 Connect with Me 
 📬 Email: songyhyh00@gmail.com
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yh_s00/) 
 
 ---
 
