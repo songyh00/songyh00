@@ -71,6 +71,12 @@
 
 ---
 
+## 🌱 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=songyh00&bg_color=1a1b27&color=ffffff&line=00b894&point=ffffff&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## 🔗 Connect with Me  
 📬 Email: songyhyh00@gmail.com  <br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yh_s00/)  
