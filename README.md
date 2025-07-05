@@ -61,6 +61,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=songyh00&show_icons=true&theme=radical" height="180px" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=songyh00&bg_color=1a1b27&color=ffffff&line=00b894&point=ffffff&area=true&hide_border=true" />
+</p>
+
 ---
 
 ## 🔗 Connect with Me  
