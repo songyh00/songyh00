@@ -35,6 +35,18 @@
 
 ---
 
+## 💼 Projects
+
+### 📌 WeatherFit - 날씨 기반 코디 추천 웹앱
+- 백엔드 개발 담당 (Spring Boot 기반)
+- 기상청 API + Kakao Map API 연동
+- 사용자 성별, 스타일, 기온에 따라 의류 추천 알고리즘 구현
+- 프론트는 팀원이 담당 (React)
+
+🔗 [프로젝트 코드 보러가기]([https://github.com/songyh00/your-weatherfit-repo](https://github.com/songyh00/WeatherFit))
+
+---
+
 ## 📚 Learning Goals
 
 - ✅ Spring 기반의 웹 백엔드 프로젝트 경험 쌓기  
@@ -48,13 +60,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=songyh00&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songyh00&layout=compact&theme=radical&cache_seconds=1" height="180px"/>
 </p>
 
 ---
 
-## 🔗 Connect with Me 
+## 🔗 Connect with Me  
 📬 Email: songyhyh00@gmail.com  <br>
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yh_s00/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yh_s00/)  
 
 ---
 
