@@ -40,7 +40,7 @@
 ### 📌 WeatherFit - 날씨 기반 코디 추천 웹앱
 - 백엔드 개발 담당 (Spring Boot 기반)
 - 기상청 API + Kakao Map API 연동
-- 사용자 성별, 스타일, 기온에 따라 의류 추천 알고리즘 구현
+- 사용자 성별, 날씨, 기온에 따라 의류 추천 알고리즘 구현
 
 🔗 [프로젝트 코드 보러가기](https://github.com/songyh00/WeatherFit)
 
