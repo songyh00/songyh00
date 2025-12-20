@@ -75,7 +75,7 @@
 ---
 
 ## 🔗 Connect with Me  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:songyhyh00@gmail.com) <br>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:songyhyh00@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yh_s00/)  
 
 ---
