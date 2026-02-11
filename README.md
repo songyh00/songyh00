@@ -81,8 +81,3 @@ Undergraduate Computer Science student focused on **AI systems** and **Backend E
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yh_s00/)
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=rss&logoColor=white)](https://songyh00.tistory.com/)
 
----
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=songyh00&show_icons=true&theme=default)
-
