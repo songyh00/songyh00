@@ -49,7 +49,7 @@ Undergraduate Computer Science student focused on **AI systems** and **Backend E
 
 ---
 
-## Tech Stack
+## Tech Stack(Currently Studying)
 
 ### Backend & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
