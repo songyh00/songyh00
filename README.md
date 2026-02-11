@@ -51,21 +51,25 @@ Undergraduate Computer Science student focused on **AI systems** and **Backend E
 
 ## Tech Stack
 
-**Backend & Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white)
+**Backend & Languages**  
+![Python](...)
+![Java](...)
+![Spring Boot](...)
 
-**AI & Data**
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+<br>
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white)
+**AI & Data**  
+![NumPy](...)
+![Pandas](...)
+![PyTorch](...)
+
+<br>
+
+**Tools**  
+![Git](...)
+![GitHub](...)
+![VS Code](...)
+![IntelliJ](...)
 
 ---
 
@@ -78,10 +82,10 @@ Undergraduate Computer Science student focused on **AI systems** and **Backend E
 
 ## Connect
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:songyhyh00@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-Tistory-orange?style=flat-square&logo=rss&logoColor=white)](https://songyh00.tistory.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yh_s00/)
+[![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=rss&logoColor=white)](https://songyh00.tistory.com/)
 
 ---
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=songyh00&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=songyh00&show_icons=true&theme=default&cache_seconds=1800)
