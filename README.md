@@ -51,25 +51,25 @@ Undergraduate Computer Science student focused on **AI systems** and **Backend E
 
 ## Tech Stack
 
-**Backend & Languages**  
-![Python](...)
-![Java](...)
-![Spring Boot](...)
+### Backend & Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 <br>
 
-**AI & Data**  
-![NumPy](...)
-![Pandas](...)
-![PyTorch](...)
+### AI & Data
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 <br>
 
-**Tools**  
-![Git](...)
-![GitHub](...)
-![VS Code](...)
-![IntelliJ](...)
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
 ---
 
@@ -88,4 +88,5 @@ Undergraduate Computer Science student focused on **AI systems** and **Backend E
 ---
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=songyh00&show_icons=true&theme=default&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=songyh00&show_icons=true&theme=default)
+
