@@ -1,15 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=50)
 
 # Hi, I'm **Yuhyeon Song**
-Computer Science major focused on **AI systems** and **Backend Engineering**
+Undergraduate Computer Science student focused on **AI systems** and **Backend Engineering**
 
 ---
 
 ## About Me
 - Building data-driven systems that solve practical problems
 - Developing backend services with **Spring Boot** and **Java**
-- Studying foundations of **Machine Learning**, data processing, and optimization
-- Long-term goal: pursue graduate studies in **AI and data-driven systems**
+- Studying foundations of **Machine Learning**, **Linear Algebra**, and **Optimization**
+- Currently strengthening theoretical and practical foundations for graduate studies in AI
 
 ---
 
@@ -70,8 +70,8 @@ Computer Science major focused on **AI systems** and **Backend Engineering**
 ---
 
 ## Learning Focus
-- Strengthening fundamentals in algorithms and data structures
-- Implementing ML models and improving evaluation pipelines
+- Strengthening foundations in Algorithms and Data Structures
+- Improving ML model evaluation and experimental design
 - Designing scalable backend systems
 
 ---
